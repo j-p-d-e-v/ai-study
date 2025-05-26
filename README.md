@@ -14,3 +14,4 @@
 
 # Part 2: Machine Learning
 1. Concepts https://www.amazon.com/dp/1777005477
+...To be update once I get here
